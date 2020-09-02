@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[A Somewhat Minimally Designed Blog]]></title><description><![CDATA[A blog for testing Gatsby.]]></description><link>https://github.com/Leonlit</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 02 Sep 2020 09:18:51 GMT</lastBuildDate><item><title><![CDATA[Just Testing 2]]></title><description><![CDATA[This is also another post for testing Different blog post section navigation]]></description><link>https://github.com/Leonlit/Just-testing-2/</link><guid isPermaLink="false">https://github.com/Leonlit/Just-testing-2/</guid><pubDate>Fri, 29 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;This is also another post for testing Different blog post section navigation&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Testing the project section's post positioning]]></title><description><![CDATA[This post is used to test the positioning of the element. Well that’s just how flex works lol]]></description><link>https://github.com/Leonlit/Just-testing-copy/</link><guid isPermaLink="false">https://github.com/Leonlit/Just-testing-copy/</guid><pubDate>Fri, 29 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;This post is used to test the positioning of the element. Well that’s just how flex works lol&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Just testing the positioning and navigation between elements]]></title><description><![CDATA[Since there’s two different section for this blog, I’ll need to test the navigation between two types as well as making some dummy post to…]]></description><link>https://github.com/Leonlit/Just-testing/</link><guid isPermaLink="false">https://github.com/Leonlit/Just-testing/</guid><pubDate>Fri, 29 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Since there’s two different section for this blog, I’ll need to test the navigation between two types as well as making some dummy post to test the positioning of the post&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The feature for the "A somewhat minimally designed blog" template]]></title><description><![CDATA[Feature for this template (WIP) Main navigation bar Side navigation bar Sharing blog post to social medias Responsive design]]></description><link>https://github.com/Leonlit/feature-for-this-blog/</link><guid isPermaLink="false">https://github.com/Leonlit/feature-for-this-blog/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;h3&gt;Feature for this template (WIP)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Main navigation bar&lt;/li&gt;
+&lt;li&gt;Side navigation bar&lt;/li&gt;
+&lt;li&gt;Sharing blog post to social medias&lt;/li&gt;
+&lt;li&gt;Responsive design&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[A simple blog post for poject]]></title><description><![CDATA[Feature for this project (WIP) Main navigation bar Side navigation bar Sharing blog post to social medias Responsive design]]></description><link>https://github.com/Leonlit/A-simple-sample-post-on-projects/</link><guid isPermaLink="false">https://github.com/Leonlit/A-simple-sample-post-on-projects/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;h3&gt;Feature for this project (WIP)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Main navigation bar&lt;/li&gt;
+&lt;li&gt;Side navigation bar&lt;/li&gt;
+&lt;li&gt;Sharing blog post to social medias&lt;/li&gt;
+&lt;li&gt;Responsive design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 460px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/A-somewhat-minimally-designed-blog/static/fce744b9fda982369b31443b1117ca94/08a84/leon.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsSAAALEgHS3X78AAACfUlEQVQ4y41USUuyURh1RBGFXEoi4q5tm2gvhMugvZB/QAQXJqIRCZVgA5G2EN2oKCqoFK3cOGGFOCFRKE2kFBiOlNN36EpZ2Gd3cbn3PtM553nel0L5w6JSqX9xozCZTDabzWKxGAwGjUYbjx+/Tq+ARDMzM0KhcHFxUSwW/w8CMSwvL1ssFr/fn0gkSqVSu90eDof9fv/y8lIkEsFhQn3yND8/32q1ut3u+/v709NTsViMx+MnJycOhwMpgsHg5GA6nY796OgITgaD4fj42OPxuFwun88XjUZxdTqdMKlUqk/nb2UFAkGn00mlUjabrVwuh0Khu7s7BAwGA+zb29uZTAaHhYWFb/UhLHaNRgPb1tbWw8PD+fn5ysoKKPR6vbe3N7w/Pz/rdDowyufzPB5vpBHRicvlPj4+Xl1d7e/vwxWclUplrVYjlZECh0gksru7iwNYjIIJgdXVVbzu7e0RbFgIvrm5qdfr1WoVVxIPUc7Ozl5fX2dnZ784A+f19TWIwQPYsG9ubqJht7e3hUIBmElGdBHowuHwiDaB7Xa7wRA6IytRyG63m0wmNAyyISCXy+GMjDBJpdKR5kQ3jNHLy0ssFjs4OCBFAoGAXq+/v7/HeIACGu71ei8uLtLp9IQmy2QyAuz09BQHq9UKeaEtRi2bzSL1xsYG3uVy+eRW7+zswKzVaoHws8OYTexoPtQGeQ6H83PIyQUNTyaTgKpWq6HC4eEh0hmNRnTIbDYjxdra2s+y48Xn5ubQ3uLHqlQqzWaz0WgACGYOAwtpfv22SPzS0hLGYH19XaFQ4IyvRSKR8Pl84JryV6B+rIkmpJ7+S4ETY2yB4W9h/wC3LLb07BFHHAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;test&quot;
+        title=&quot;test&quot;
+        src=&quot;/A-somewhat-minimally-designed-blog/static/fce744b9fda982369b31443b1117ca94/08a84/leon.png&quot;
+        srcset=&quot;/A-somewhat-minimally-designed-blog/static/fce744b9fda982369b31443b1117ca94/12f09/leon.png 148w,
+/A-somewhat-minimally-designed-blog/static/fce744b9fda982369b31443b1117ca94/e4a3f/leon.png 295w,
+/A-somewhat-minimally-designed-blog/static/fce744b9fda982369b31443b1117ca94/08a84/leon.png 460w&quot;
+        sizes=&quot;(max-width: 460px) 100vw, 460px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
